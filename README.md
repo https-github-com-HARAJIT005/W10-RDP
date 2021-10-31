@@ -20,5 +20,5 @@
 > If you have any questions, contact me in Discord:
 > https://discord.gg/fgsK9wqWhQ
 ## Original Repositor :
-> https://github.com/c9ffin/rdp
+> https://github.com/c9ffin/rdp (DELETED LMAO)
 ***
